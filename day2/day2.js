@@ -20,7 +20,7 @@ Using var allows you to re-declare a variable, which can potentially lead to err
 _Cả 2 từ khóa var và let đều được dùng để khai báo biến trong javascript.
 var thường xuất hiện trong các chương trình cũ. 
 let ra đời sau, để giải quyết những vấn đề của var -> nên dùng let
-vấn đề của var: var không báo lỗi khi user khai báo 2 biến trùng tên
+vấn đề của var: var không báo lỗi khi user khai báo 2 biến trùng tên trong cùng scope
 */
 
 var height = 2;
