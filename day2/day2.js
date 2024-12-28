@@ -6,7 +6,7 @@ _Declaring: khai báo biến > var, let cho biến; const cho hằng
 _Initializig: khởi tạo biến
 
 _Declaration and Strict mode: "use strict"
-_JavaScript language are untyped (-> linh hoạt, mềm dẻo, nhưng yêu cầu ltv phải có kiến thức tốt)
+_JavaScript language are untyped(~weakly typed) (-> linh hoạt, mềm dẻo, nhưng yêu cầu ltv phải có kiến thức tốt)
 _Constant:  Using a const, besides preventing a value from being changed by mistake, allows the JavaScript engine to optimize the code, which may affect its performance.
 */
 
